@@ -1,0 +1,44 @@
+#bg{
+    background-color:rgb(35%, 40%, 50%);
+}
+h1{
+    color: whitesmoke;
+}
+#first{
+    color: tomato;
+    border:2px solid black;
+    width:200px;
+    padding:10px;
+    margin-right:10px;
+    float: left;
+}
+#Second{
+    color: yellowgreen;
+    border:2px solid black;
+    width:200px;
+    padding:10px;
+    margin-right:10px;
+    float: left;
+}
+#Third{
+    color: turquoise;
+    border:2px solid black;
+    width:200px;
+    padding:10px;
+    margin-right:10px;
+    float:left;
+}
+#Four{
+    color:violet;
+    border:2px solid black;
+    width:400px;
+    padding:10px;
+    float:right;
+}
+#Five{
+    color:violet;
+    border:2px solid black;
+    width:400px;
+    padding:10px;
+    float:right;
+}
